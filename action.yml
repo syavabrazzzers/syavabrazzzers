@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: syavabrazzzers/syavabrazzzers@main
         with:
-          WAKATIME_API_KEY: ${{ WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ environment.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ environment.GH_TOKEN }}
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
