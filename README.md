@@ -4,20 +4,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&multiline=true&width=750&height=60&lines=I+am+an+information+security+specialist;+studying+at+the+Belgorod+State+National+Research+University" alt="Typing SVG" /></a>
 <br>
-- :hammer_and_wrench: My devops skills
+- My skills :sunglasses:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,postgres,mysql,python,django,fastapi,javascript,typescript,react,next,tailwind" />
 </p>
 
-- :gear: My backend skills
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql" />
-</p>
-
-- :desktop_computer: My frontend skills
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind" />
-</p>
 <br>
 - 📫 How to reach me: 
 <p>
