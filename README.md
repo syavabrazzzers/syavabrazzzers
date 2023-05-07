@@ -26,11 +26,29 @@
 ``` text
 PyCharm:              ████████████████████ 0:37:13 100.0%
 ```
+## Editors used in the last week
+``` text
+PyCharm:              ████████████████████ 0:37:13 100.0%
+```
 ## Languages used in the last week
 ``` text
 Python:               ███████████████████░ 0:37:04 99.6%
 Markdown:             █░░░░░░░░░░░░░░░░░░░ 0:00:08 0.38%
 Text:                 █░░░░░░░░░░░░░░░░░░░ 0:00:00 0.02%
+```
+## Editors used in the last week
+``` text
+PyCharm:              ████████████████████ 0:37:13 100.0%
+```
+## Languages used in the last week
+``` text
+Python:               ███████████████████░ 0:37:04 99.6%
+Markdown:             █░░░░░░░░░░░░░░░░░░░ 0:00:08 0.38%
+Text:                 █░░░░░░░░░░░░░░░░░░░ 0:00:00 0.02%
+```
+## Operating_systems used in the last week
+``` text
+Linux:                ████████████████████ 0:37:13 100.0%
 ```
 <!--END_SECTION:waka-->
 
