@@ -22,9 +22,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syavabrazzzers&layout=compact)](https://github.com/syavabrazzzers/github-readme-stats)
 
 <!--START_SECTION:waka-->
-    
 ``` text
-PyCharm:              ████████████████████ 0:37:13 100.0%
+wakapy:               ███████████████░░░░░ 0:28:19 76.09%
+backend:              ████░░░░░░░░░░░░░░░░ 0:08:20 22.39%
+app:                  █░░░░░░░░░░░░░░░░░░░ 0:00:34 1.52%
 ```
 <!--END_SECTION:waka-->
 
