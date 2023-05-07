@@ -22,9 +22,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syavabrazzzers&layout=compact)](https://github.com/syavabrazzzers/github-readme-stats)
 
 <!--START_SECTION:waka-->
-Python:               ███████████████████░ 0:37:04 99.6%
-Markdown:             █░░░░░░░░░░░░░░░░░░░ 0:00:08 0.38%
-Text:                 █░░░░░░░░░░░░░░░░░░░ 0:00:00 0.02%
+<p>Python:               ███████████████████░ 0:37:04 99.6%<p/>
+<p>Markdown:             █░░░░░░░░░░░░░░░░░░░ 0:00:08 0.38%<p/>
+<p>Text:                 █░░░░░░░░░░░░░░░░░░░ 0:00:00 0.02%<p/>
 
 <!--END_SECTION:waka-->
 
