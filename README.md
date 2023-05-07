@@ -7,7 +7,7 @@
 - My skills :sunglasses:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,docker,linux,postgres,mysql,python,django,fastapi,javascript,typescript,react,next,tailwind" />
-</p>
+<p/>
 
 <br>
 - 📫 How to reach me: 
