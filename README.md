@@ -22,5 +22,22 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syavabrazzzers&layout=compact)](https://github.com/syavabrazzzers/github-readme-stats)
 
 <!--START_SECTION:waka-->
+## Editors used in the last week
+``` text
+PyCharm:              ████████████████████ 6:37:58 100.0%
+```
+## Languages used in the last week
+``` text
+Python:               ██████████████░░░░░░ 4:48:00 72.37%
+Markdown:             ██░░░░░░░░░░░░░░░░░░ 0:58:24 14.68%
+YAML:                 █░░░░░░░░░░░░░░░░░░░ 0:34:58 8.79%
+Text:                 █░░░░░░░░░░░░░░░░░░░ 0:15:43 3.95%
+AUTO_DETECTED:        █░░░░░░░░░░░░░░░░░░░ 0:00:52 0.22%
+```
+## Operating_systems used in the last week
+``` text
+Linux:                ████████████████████ 6:37:58 100.0%
+```
+
 <!--END_SECTION:waka-->
 
