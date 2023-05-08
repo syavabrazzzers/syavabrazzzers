@@ -11,8 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     environment: secrets
     steps:
-      - uses: syavabrazzzers/waka-widgets@main
-        with:
-          WAKATIME_API_KEY: ${{secrets.WAKATIME_API_KEY}}
-          GH_TOKEN: 'aboba2'
-          ZXC: 'aboba'
+      - run: echo ${{secrets.WAKATIME_API_KEY}}
+#       - uses: syavabrazzzers/waka-widgets@main
+#         with:
+#           WAKATIME_API_KEY: ${{secrets.WAKATIME_API_KEY}}
+#           GH_TOKEN: 'aboba2'
+#           ZXC: 'aboba'
