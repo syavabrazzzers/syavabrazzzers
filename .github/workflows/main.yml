@@ -9,6 +9,7 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    environment: secrets
     steps:
       - uses: syavabrazzzers/waka-widgets@main
         with:
