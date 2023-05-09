@@ -9,11 +9,14 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    environment: secrets
+    env:
+        super_secret: ${{ secrets.WAKATIME_API_KEY }}
     steps:
-      - run: echo ${{secrets.WAKATIME_API_KEY}}
-      - run: echo ${{env.WAKATIME_API_KEY}}
-      - run: echo ${{vars.WAKATIME_API_KEY}}
+      - run: echo "$super_secret"
+#     steps:
+#       - run: echo ${{secrets.WAKATIME_API_KEY}}
+#       - run: echo ${{env.WAKATIME_API_KEY}}
+#       - run: echo ${{vars.WAKATIME_API_KEY}}
 #       - uses: syavabrazzzers/waka-widgets@main
 #         with:
 #           WAKATIME_API_KEY: ${{secrets.WAKATIME_API_KEY}}
