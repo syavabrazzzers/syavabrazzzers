@@ -16,5 +16,4 @@ jobs:
       - uses: syavabrazzzers/waka-widgets@main
         with:
           WAKATIME_API_KEY: ${{secrets.WAKATIME_API_KEY}}
-          GH_TOKEN: 'aboba2'
-          ZXC: 'aboba'
+          GH_TOKEN: ${{secrets.GH_TOKEN}}
