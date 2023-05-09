@@ -12,7 +12,7 @@ jobs:
     env:
         super_secret: ${{ secrets.WAKATIME_API_KEY }}
     steps:
-      - run: echo "$super_secret"
+      - run: env
 #     steps:
 #       - run: echo ${{secrets.WAKATIME_API_KEY}}
 #       - run: echo ${{env.WAKATIME_API_KEY}}
