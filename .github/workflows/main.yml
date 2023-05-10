@@ -3,7 +3,6 @@ name: Waka Readme
 on:
   schedule:
     - cron: '0 1 * * *'
-    - timezone: 'Europe/Moscow'
   workflow_dispatch:
 jobs:
   update-readme:
