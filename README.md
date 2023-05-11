@@ -24,7 +24,9 @@
 <!--START_SECTION:waka-->
 ## Editors used in the last week
 ```text
-PyCharm:              ████████████████████ 10:37:38 100.0%
+PyCharm:              ██████████████░░░░░░ 10:44:19 72.28%
+VS Code:              █████░░░░░░░░░░░░░░░ 4:01:34 27.1%
+WebStorm:             █░░░░░░░░░░░░░░░░░░░ 0:05:34 0.62%
 ```
 
 <!--END_SECTION:waka-->
