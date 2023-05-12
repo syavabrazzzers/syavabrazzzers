@@ -17,10 +17,6 @@
 <br>
 - ⚡ Fun fact: <p>I love anime and series, also play games and stream<p/>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syavabrazzzers&layout=compact)](https://github.com/syavabrazzzers/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
