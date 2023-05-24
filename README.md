@@ -12,7 +12,7 @@
 <br>
 - 📫 How to reach me: 
 <p>
-<a href='t.me/syavabrazzzers'>Telegram<a/>
+<a href='https://t.me/syavabrazzzers'>Telegram<a/>
 <p/>
 <br>
 - ⚡ Fun fact: <p>I love anime and series, also play games and stream<p/>
