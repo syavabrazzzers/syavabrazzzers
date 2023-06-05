@@ -14,6 +14,8 @@
 <a href='https://t.me/syavabrazzzers'>Telegram<a/>
 <p/>
 <br>
+    
+    <h2>Wakatime stats</h2>
 
 <img alt="wakastats" src="https://waka-widget.up.railway.app/language?langs=all&user=TaiLo&randomGradient=true&bgLineColor=696969&maxLangs=5&theme=dark" />
     
