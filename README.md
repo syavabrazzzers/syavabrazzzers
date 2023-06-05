@@ -43,3 +43,4 @@ VS Code:              █░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<img src="https://waka-widget-nest-production.up.railway.app/language/ts,js,py?name=TaiLo&randomGradient=true&theme=dark"/>
