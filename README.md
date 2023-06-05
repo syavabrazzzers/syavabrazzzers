@@ -15,7 +15,7 @@
 <p/>
 <br>
     
-<h2 align='center'>Wakatime stats</h2>
+<h1 align='center'>Wakatime stats</h1>
 
 <img alt="wakastats" src="https://waka-widget.up.railway.app/language?langs=all&user=TaiLo&randomGradient=true&bgLineColor=696969&maxLangs=5&theme=dark" />
     
