@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there, i`m <a href='t.me/syavabrazzzers'>Vyacheslav<a/> <h1/>
+<h1 align='center'>Hi there, i`m <a href='https://t.me/syavabrazzzers'>Vyacheslav<a/> <h1/>
 
 <p>I`m 20yo full stack developer from Russia and i love Python :snake: <p/>
 
