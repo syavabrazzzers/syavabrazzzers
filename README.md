@@ -17,7 +17,7 @@
 <br>
 - ⚡ Fun fact: <p>I love anime and series, also play games and stream<p/>
 
-<img alt="wakastats" src="https://waka-widget-nest-production.up.railway.app/language?langs=all&user=TaiLo&randomGradient=true&bgLineColor=696969maxLangs=5&theme=dark" />
+<img alt="wakastats" src="https://waka-widget-nest-production.up.railway.app/language?langs=all&user=TaiLo&randomGradient=true&bgLineColor=696969&maxLangs=5&theme=dark" />
     
 <!--START_SECTION:waka-->
 ## Languages used in the last week
