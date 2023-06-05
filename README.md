@@ -43,4 +43,4 @@ VS Code:              █░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<img alt="wakastats" src="https://waka-widget-nest-production.up.railway.app/language/ts,js,py?name=TaiLo&randomGradient=true&theme=dark" />
+<img alt="wakastats" src="[https://waka-widget-nest-production.up.railway.app/language/ts,js,py?name=TaiLo&randomGradient=true&theme=dark](https://waka-widget-nest-production.up.railway.app/language?langs=all&randomGradient=true&bgLineColor=696969&theme=dark)" />
