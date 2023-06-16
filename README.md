@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
-SQL:                  ████████████████████ 8:50:38 100.0%
+SQL:                  ████████████████████ 4:43:16 100.0%
 ```
 ## Editors used in the last week
 ```text
-DBeaver:              ████████████████████ 8:50:38 100.0%
+DBeaver:              ████████████████████ 4:43:16 100.0%
 ```
 
 <!--END_SECTION:waka-->
