@@ -22,11 +22,13 @@
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
-SQL:                  ████████████████████ 4:04:55 100.0%
+SQL:                  ███████████░░░░░░░░░ 3:00:19 56.01%
+Python:               ████████░░░░░░░░░░░░ 2:21:36 43.99%
 ```
 ## Editors used in the last week
 ```text
-DBeaver:              ████████████████████ 4:04:55 100.0%
+DBeaver:              ███████████░░░░░░░░░ 3:00:19 56.01%
+PyCharm:              ████████░░░░░░░░░░░░ 2:21:36 43.99%
 ```
 
 <!--END_SECTION:waka-->
