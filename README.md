@@ -22,9 +22,12 @@
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
+TypeScript:           ██████████████░░░░░░ 0:41:56 72.35%
+Python:               █████░░░░░░░░░░░░░░░ 0:16:01 27.65%
 ```
 ## Editors used in the last week
 ```text
+VS Code:              ████████████████████ 0:57:58 100.0%
 ```
 
 <!--END_SECTION:waka-->
