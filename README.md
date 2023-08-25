@@ -22,13 +22,9 @@
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
-Python:               ███████████░░░░░░░░░ 0:26:28 58.66%
-Lua:                  ███████░░░░░░░░░░░░░ 0:16:45 37.13%
-Text:                 █░░░░░░░░░░░░░░░░░░░ 0:01:54 4.21%
 ```
 ## Editors used in the last week
 ```text
-Neovim:               ████████████████████ 0:45:07 100.0%
 ```
 
 <!--END_SECTION:waka-->
