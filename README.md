@@ -22,13 +22,9 @@
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
-JavaScript:           ██████████████████░░ 0:01:36 91.41%
-Python:               █░░░░░░░░░░░░░░░░░░░ 0:00:08 8.07%
-.env file:            █░░░░░░░░░░░░░░░░░░░ 0:00:00 0.52%
 ```
 ## Editors used in the last week
 ```text
-PyCharm:              ████████████████████ 0:01:46 100.0%
 ```
 
 <!--END_SECTION:waka-->
