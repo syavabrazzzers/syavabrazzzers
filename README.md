@@ -14,19 +14,3 @@
 <a href='https://t.me/syavabrazzzers'>Telegram<a/>
 <p/>
 <br>
-
-<h1 align='center'>Wakatime stats</h1>
-
-<img alt="wakastats" src="https://waka-widget.up.railway.app/language?langs=all&user=TaiLo&randomGradient=true&bgLineColor=696969&maxLangs=5&theme=dark" />
-    
-<!--START_SECTION:waka-->
-## Languages used in the last week
-```text
-```
-## Editors used in the last week
-```text
-```
-
-<!--END_SECTION:waka-->
-
-
